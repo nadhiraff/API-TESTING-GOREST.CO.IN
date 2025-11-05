@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Endpoint POST Create User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17f23be4-a946-4f98-b39e-63bd9d3f8d6d</testCaseGuid>
+</TestCaseEntity>

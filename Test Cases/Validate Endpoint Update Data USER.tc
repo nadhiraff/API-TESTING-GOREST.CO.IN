@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Endpoint Update Data USER</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b556ad4b-963e-4090-9943-f3a63dc4a29e</testCaseGuid>
+</TestCaseEntity>
